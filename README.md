@@ -18,7 +18,8 @@ Ao longo da minha trajetória, trabalhei em grandes projetos de forma colaborati
 
 🌍 Explorando novas tecnologias e desenvolvendo soluções relacionado à dados.
 
-
+***
+## Minhas Contribuições
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?username=23titoalves)
 ###
 
