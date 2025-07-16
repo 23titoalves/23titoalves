@@ -12,6 +12,8 @@ Ao longo da minha trajetória, trabalhei em grandes projetos de forma colaborati
 
 🎓 Graduação em Análise e Desenvolvimento de Sistemas pela UNESA
 
+👨🏻‍💻 Analytics Engineer 
+
 🖥️ Python | SQL | PySpark | Power BI | Databricks | Synapse Analytics | DataFactory | Big Data |
 
 📚 Estudando Airflow, DBT, Python
