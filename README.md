@@ -23,9 +23,6 @@ Ao longo da minha trajetória, trabalhei em grandes projetos de forma colaborati
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?username=23titoalves)
 ###
 
-***
-![Pacman Contribution Graph](https://raw.githubusercontent.com/23titoalves/23titoalves/main/output/pacman-contribution-graph.svg)
-
 
 ## 🚀 Principais Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,apple,py,unity,docker,vscode,mysql)](https://skillicons.dev)
