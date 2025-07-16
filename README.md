@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Julio, but my friends call me Tito. Tito is my nickname! :)
 <!--
 **23titoalves/23titoalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
