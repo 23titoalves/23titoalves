@@ -28,3 +28,32 @@ Ao longo da minha trajetória, trabalhei em grandes projetos de forma colaborati
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,apple,py,unity,docker,vscode,mysql)](https://skillicons.dev)
 ***
 
+<p align="left">
+  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
+</p>
+
+<p align="left">
+  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=23titoalves@outlook.com" title="Outlook">
+  <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&labelColor=0078D4&logo=outlook&logoColor=white" alt="Outlook"/></a>
+  <a href="https://www.linkedin.com/in/juliocealves/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eduardavieira-dev.eduardavieira-dev&left_color=blue&right_color=black" width="80" />
+</div>
+
+
+
+  
+[![23titoalves's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=23titoalves&bg_color=242938&color=3c99d4&line=0877b9&point=0877b9&area=true&area_color=3c99d4&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=eduardavieira-dev&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:242938,100:3c99d4"/>
