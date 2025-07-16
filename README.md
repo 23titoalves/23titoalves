@@ -28,11 +28,11 @@ Ao longo da minha trajetória, trabalhei em grandes projetos de forma colaborati
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,apple,py,unity,docker,vscode,mysql)](https://skillicons.dev)
 ***
 
-<p align="left">
-  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
+<p align="center">
+  Vamos nos conectar? Me envie um e-mail ou me siga no LinkedIn!
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://outlook.live.com/mail/0/deeplink/compose?to=23titoalves@outlook.com" title="Outlook">
   <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&labelColor=0078D4&logo=outlook&logoColor=white" alt="Outlook"/></a>
   <a href="https://www.linkedin.com/in/juliocealves/" title="LinkedIn">
