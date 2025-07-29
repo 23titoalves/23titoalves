@@ -58,9 +58,7 @@ Ao longo da minha trajetória, trabalhei em grandes projetos de forma colaborati
 
 
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=eduardavieira-dev&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
-</div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:242938,100:3c99d4"/>
