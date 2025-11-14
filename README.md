@@ -1,5 +1,4 @@
 ## Hi there 👋
-Me chamo Julio mas meus amigos me chamam de Tito! :)
 
 ## 🎯 Sobre mim 
 Sou Analytics Engineer com mais de 7 anos de experiência prática na criação e otimização de soluções de dados, com um foco constante em eficiência e escalabilidade. Tenho uma visão completa de todo o fluxo de dados, desde a ingestão até a entrega de insights, com especialização em modelagem de dados e implementação de soluções em plataformas de nuvem.
